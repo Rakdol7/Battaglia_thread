@@ -1,0 +1,14 @@
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\bin\Debug\net6.0\battaglia.exe
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\bin\Debug\net6.0\battaglia.deps.json
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\bin\Debug\net6.0\battaglia.runtimeconfig.json
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\bin\Debug\net6.0\battaglia.dll
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\bin\Debug\net6.0\battaglia.pdb
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\battaglia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\battaglia.AssemblyInfoInputs.cache
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\battaglia.AssemblyInfo.cs
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\battaglia.csproj.CoreCompileInputs.cache
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\battaglia.dll
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\refint\battaglia.dll
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\battaglia.pdb
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\battaglia.genruntimeconfig.cache
+C:\Users\masnada.21197\Desktop\battaglia\battaglia\obj\Debug\net6.0\ref\battaglia.dll
