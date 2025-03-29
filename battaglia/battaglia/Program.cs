@@ -1,27 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Threading;
 
 namespace battaglia
 {
-    internal class program
+    internal class Program
     {
         static void Main(string[] args)
         {
             Arena campo = new Arena();
-            List<Giocatore> giocatori = new List<Giocatore>();
+            List<Thread> threads = new List<Thread>();
+
             for (int i = 0; i < 10; i++)
             {
-                Giocatore G = new Giocatore("player" + (i + 1));
-                giocatori.Add(G);
-                Thread g = new Thread(G.Lotta);
-                g.Start(campo);
+                Giocatore g = new Giocatore("Player" + (i + 1));
+                Thread t = new Thread(() => g.Lotta(campo));
+                threads.Add(t);
+                t.Start();
             }
+
+            foreach (Thread t in threads)
+            {
+                t.Join(); // Aspetta che tutti i combattimenti finiscano
+            }
+
+            Console.WriteLine("Tutti i combattimenti sono terminati.");
         }
     }
 }
-
-// ricorda che combattenti[0] è il difensore, mentre combattenti[1] è l'attaccante
