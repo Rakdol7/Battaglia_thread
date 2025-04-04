@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("battaglia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ba66e497c450642de67114b9f6d31f1127889f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+406423d17f1cc51c79db10017fa0341e948edd8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("battaglia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("battaglia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

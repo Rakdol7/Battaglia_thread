@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\masnada.21197\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\PROPRIETARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\masnada.21197\\Desktop\\Battaglia_thread\\battaglia\\battaglia\\battaglia.csproj",
+      "projectUniqueName": "C:\\Users\\PROPRIETARIO\\Desktop\\Battaglia_thread\\battaglia\\battaglia\\battaglia.csproj",
       "projectName": "battaglia",
-      "projectPath": "C:\\Users\\masnada.21197\\Desktop\\Battaglia_thread\\battaglia\\battaglia\\battaglia.csproj",
-      "packagesPath": "C:\\Users\\masnada.21197\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\masnada.21197\\Desktop\\Battaglia_thread\\battaglia\\battaglia\\obj\\",
+      "projectPath": "C:\\Users\\PROPRIETARIO\\Desktop\\Battaglia_thread\\battaglia\\battaglia\\battaglia.csproj",
+      "packagesPath": "C:\\Users\\PROPRIETARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PROPRIETARIO\\Desktop\\Battaglia_thread\\battaglia\\battaglia\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\masnada.21197\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\PROPRIETARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -26,7 +26,7 @@ namespace battaglia
             int danno;
             if (attaccante.Attacca() <= PercentualeDifesa)
             {
-                danno = attaccante.DannoAttacco * rnd.Next(50, 101) / 100;
+                danno = attaccante.DannoAttacco - (attaccante.DannoAttacco * rnd.Next(50, 101) / 100);
             }
             else
             {

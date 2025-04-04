@@ -13,7 +13,7 @@ namespace battaglia
 
             for (int i = 0; i < 10; i++)
             {
-                Giocatore g = new Giocatore("Player" + (i + 1));
+                Giocatore g = new Giocatore("Giocatore" + (i + 1));
                 Thread t = new Thread(() => g.Lotta(campo));
                 threads.Add(t);
                 t.Start();
